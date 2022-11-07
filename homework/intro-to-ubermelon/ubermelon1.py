@@ -9,4 +9,4 @@ def generate_sales_reports(log_file):  #funtion to generate sales report for Mon
             print(line)  #print the data from that line
 
 
-generate_sales_reports(log_file)  #calls funtion generate_sales_reports
+generate_sales_reports(log_file)  #calls funtion generate_sales_reports.
